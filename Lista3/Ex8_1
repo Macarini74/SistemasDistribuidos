@@ -1,0 +1,6 @@
+PrincipalAPI: envia mensagem para o servidor
+Basic MDc4NDM3MzE2Nzk6Y3Nkd1NVQms2ZFRKaW1oQ1ViQ3ZzV3V6RjRiMnRuZXZpamxmeVBoNQ==
+Response: 201
+(POST https://api.correios.com.br/token/v1/autentica) 201
+{"ambiente":"PRODUCAO","id":"07843731679","ip":"177.76.178.108, 192.168.1.132","perfil":"PF","cpf":"07843731679","categoria":"Id0","emissao":"2025-06-14T17:52:35","expiraEm":"2025-06-15T17:52:35","zoneOffset":"-03:00","token":"eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NDk5MzQzNTUsImlzcyI6InRva2VuLXNlcnZpY2UiLCJleHAiOjE3NTAwMjA3NTUsImp0aSI6ImZmNGI4YTMyLWQ4YzAtNDRlOC1iZGZjLWQ2YTU5MGU1MmQ5MyIsImFtYmllbnRlIjoiUFJPRFVDQU8iLCJwZmwiOiJQRiIsImlwIjoiMTc3Ljc2LjE3OC4xMDgsIDE5Mi4xNjguMS4xMzIiLCJjYXQiOiJJZDAiLCJjcGYiOiIwNzg0MzczMTY3OSIsImlkIjoiMDc4NDM3MzE2NzkifQ.CBl2Vk7sarGJHnigpMnoiMbc_4GPrQDQsFHIztWws0dISDVMswEiKeimhK7L_byHfi9N3KeTtq5yRhjJO5NOUz2lRjsOI1rC9KkliHz6W3u-wgPA5AEPjTDSa6Nl_8GbrJvjLlksECi6mO6_BnV5aDxhB2TP6iOrKQUim9vI8BuzkZ5kAaDWCbX-a8N83ZFrcDVAanPk56gRFYUKtcJ2__dX-h5NFqXB2IkYGc-ignnSsmjk5dVdPzh454TPME8T8pPnBphsJbDrqz8qIFnoHsr6ja4ueVOZH8pqNqFayErHSdj0txz4RALCU5nWyYUzpaCUoQt65utTkl_sQbNmkw"}
+Fim!
